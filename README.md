@@ -2,6 +2,7 @@
 <div align="center">
 <img src="https://i.ibb.co/9pfpmDY/snake-code-in-cpp.png" alt="snake-code-in-cpp" border="0">
 </div>
+
 ---
 
 <div align="center">
