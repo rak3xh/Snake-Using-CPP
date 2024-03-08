@@ -1,7 +1,6 @@
 <h1 align="center">Snake Using C++</h1>
 
-<img align="center" src="https://static.javatpoint.com/cpp/images/snake-code-in-cpp.png
-" alt="dispaly" border="0">
+<img src="https://i.ibb.co/9pfpmDY/snake-code-in-cpp.png" alt="snake-code-in-cpp" border="0">
 
 ---
 
